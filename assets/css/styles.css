@@ -2571,7 +2571,7 @@ input[type="button"],
 /* One */
 
 #about:before {
-    background-image: url("/images/banner.jpg");
+    background-image: url("/images/banner-laptop.jpg");
     background-position: top right;
     background-repeat: no-repeat;
     background-size: cover;
