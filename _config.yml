@@ -1,5 +1,5 @@
-title:            Welcome to my Blog.
-description:      My musings on programming and development
+title:            Thoughts on Code (and other stuff too!)
+description:      My musings on programming and web development
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -11,14 +11,14 @@ url: http://glendoncheney.com
 owner:
   name:           Glendon Cheney
   avatar:         avatar.jpg
-  bio:            "I am a full-stack web developer living in Austin, Texas."
+  bio:            "Full-stack web developer, living in Austin, Texas."
   email:          glendon@glendoncheney.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter: glendoncheney       
   facebook:       
-  github:         
+  github: gcheney         
   stackexchange:  
-  linkedin:       
+  linkedin: glendon-cheney-3a680926       
   instagram:      
   flickr:         
   tumblr:         
