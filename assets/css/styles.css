@@ -1938,6 +1938,10 @@ input[type="radio"] + label:before {
     color: cadetblue;
 }
 
+article .link {
+    margin-right: 15px;
+}
+
 /* Box */
 
 .box {
