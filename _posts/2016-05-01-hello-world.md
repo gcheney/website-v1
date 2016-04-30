@@ -128,7 +128,7 @@ print "Hello World!";
 
 {% endhighlight %}
 
-This Perl example of "Hello World" brings an interesting syntactic blend between the Python and PHP examples above. It is interesting to note that all of the versions we have looked at since C# are dynamic, interpreted languages as opposed to beign static and compiled. Its also interesting to note how every langauge since then has managed to fit the entire program on one line.  
+This Perl example of "Hello World" brings an interesting syntactic blend between the Python and PHP examples above. It is interesting to note that all of the versions we have looked at since C# are dynamic, interpreted languages as opposed to beign static and compiled. Its also interesting to note how every langauge since then has managed to fit the entire "Hello World" program on one line.  
 
 ### 9. Ruby
 
@@ -138,6 +138,7 @@ puts 'Hello world!'
 
 {% endhighlight %}
 
+With Ruby, we are seeing yet another example of a single line "Hello World", this time very similar to python except for ```puts``` instead of ```print```. 
 
 
 ### 10. Visual Basic
@@ -152,3 +153,11 @@ Module HelloWorld
 End Module
 {% endraw %}
 {% endhighlight %}
+
+And finally, we come to Visual Basic, which at a superficial level looks almost nothing like the others we have seen on this list. (I was also, sadly, unable to find proper syntax highlighting for it.) Here the structure looks somewhat similar to C# and Java, but in place of curly brackets we have the ```sub``` and ```end``` statements and whitespace/indentation. Since even Tiobes cover story indicates that Visual Basic is losing popularity fast, its unlikely we will see many more "Hello Worlds" of this nature in the future. 
+
+### Conclusion
+
+So, there you have it! The world-famous "Hello World" program in the worlds current Top Ten programming languages. I know we didn't dive too deeply into the differences between these and really only just scratched the surface, but it still provides an interesting look at what type of syntax the most used languages have. 
+
+Leave a comment below to let me know your thoughts, and I'll see you next time.
