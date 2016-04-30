@@ -11,7 +11,7 @@ url: http://www.glendoncheney.com
 owner:
   name:           Glendon Cheney
   avatar:         avatar.jpg
-  bio:            "Full-stack web developer, living in Austin, Texas."
+  bio:            "Full-stack web developer born, raised, and living in Austin, Texas."
   email:          glendon@glendoncheney.com
   # Social networking links used in footer. Update and remove as you like.
   twitter: glendoncheney       
@@ -62,7 +62,7 @@ kramdown:
   enable_coderay: false
 
   coderay:
-    coderay_line_numbers: nil
+    coderay_line_numbers: inline
     coderay_line_numbers_start: 1
     coderay_tab_width: 4
     coderay_bold_every: 10
