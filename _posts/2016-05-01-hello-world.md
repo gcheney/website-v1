@@ -6,7 +6,7 @@ modified: 2016-05-01
 comments: true
 tags: [sample post, code, highlighting]
 image:
-  feature: helloworld-toast.jpg
+  feature: helloworld-toast-min.jpg
   credit: Windell Oskay
   creditlink: https://www.flickr.com/photos/oskay/
 ---
