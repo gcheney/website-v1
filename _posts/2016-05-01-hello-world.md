@@ -4,7 +4,7 @@ title: Hello World
 description: 
 modified: 2016-05-01
 comments: true
-tags: [sample post, code, highlighting]
+tags: [sample post, code, highlighting, first, programming, languages]
 image:
   feature: helloworld-toast-min.jpg
   credit: Windell Oskay
@@ -50,16 +50,18 @@ The Java version of "Hello World", which comes to us by way of Robert Sedgewick 
 ### 2. C
 
 {% highlight c %}
-#include <stdio.h>
-// hello.c
-int main()
+/* Hello World program */
+
+#include<stdio.h>
+
+main()
 {
-  printf("Hello world\n");
-  return 0;
+    printf("Hello World");
+
 }
 {% endhighlight %}
 
-The classic C version of "Hello World" does strip away some of the bells and whistles of the Java version (or more accurately, Java added those bells and whistles later on). Still we do see the ```main``` method, along with a return statement and type along with the ```printf()``` function that is used to display the message to the console, and the ```#include``` line to bring in the IO functionality.
+The classic C version of "Hello World" as shwon in [The C Programming Language](http://groups.engin.umd.umich.edu/CIS/course.des/cis400/c/hworld.html) does strip away some of the bells and whistles of the Java version (or more accurately, Java added those bells and whistles later on). Still we do see the ```main``` method, along with a return statement and type along with the ```printf()``` function that is used to display the message to the console, and the ```#include``` directive to bring in the IO functionality.
 
 ### 3. C++
 {% highlight c++ %}
@@ -73,7 +75,7 @@ int main()
 }
 {% endhighlight %}
 
-The C++ version of "Hello World" shares quite a few similarities with the C version, including the ```main()``` method and ending return statement. The printing statement in C++ is quite a bit different from anything else on our list, utilizing the global objects ```std::cout <<``` to use the output stream. 
+The C++ version of "Hello World" shares quite a few similarities with the C version, including the ```main()``` method and ending return statement. The printing statement in C++ is quite a bit different from anything else on our list, utilizing the global objects ```std::cout <<``` to use the output stream. The directive ```#include <iostream>```, instructs the preprocessor to include a section of standard C++ code, known as header iostream, that allows to perform standard input and output operations similar to the example in C.
 
 ### 4. C\#
 

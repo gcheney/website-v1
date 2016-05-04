@@ -1,5 +1,5 @@
-title:            Thoughts on Code (and other stuff too!)
-description:      My musings on programming and web development
+title:            My Thoughts on Code (and other stuff)
+description:      Musings on programming and web development
 disqus_shortname: gcheney
 reading_time:     true
 words_per_minute: 200
@@ -48,7 +48,7 @@ sass:
   style: compressed
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
+permalink:   /blog/:title/
 
 # Amount of post to show on home page
 paginate: 5
