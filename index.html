@@ -14,7 +14,7 @@
     <script>
         //Hack to force https on the domain
         var host = "www.glendoncheney.com";
-        if ((host == window.location.host) && (window.location.protocol != "https:")) {
+        if ((host === window.location.host) && (window.location.protocol !== "https:")) {
             window.location.protocol = "https";
         }
     </script>
